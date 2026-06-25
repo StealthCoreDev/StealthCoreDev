@@ -2,9 +2,6 @@
   <img src="./Banner.png" width="100%">
 </p>
 
-# NULLSPECTER
-
-
 
 # NULLSPECTER
 
