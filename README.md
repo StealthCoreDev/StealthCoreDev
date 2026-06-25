@@ -1,16 +1,36 @@
-## Hi there 👋
+# NULLSPECTER
 
-<!--
-**StealthCoreDev/StealthCoreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 💻 Computer Science Student • 🤖 AI Enthusiast • 🛠️ Builder
 
-Here are some ideas to get you started:
+Hi, I'm Mehdi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in Artificial Intelligence, automation, programming, and research.
+
+I enjoy building practical tools, exploring new technologies, and continuously learning.
+
+## 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🐍 Python
+- 🌐 HTML & CSS
+- ⚙️ Automation
+- 📖 Open Source
+
+---
+
+```hebrew
+אל תלך בדרך רק מפני שכולם הולכים בה.
+```
+
+```python
+404:
+    Ordinary Developer
+```
+
+---
+
+> *🧠 Curiosity before certainty.*
+
+```python
+print("Goodbye!, Mars.")
+```
