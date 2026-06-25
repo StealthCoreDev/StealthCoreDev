@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./Banner.png" width="100%">
+</p>
+
+# NULLSPECTER
+
+
+
 # NULLSPECTER
 
 > 💻 Computer Science Student • 🤖 AI Enthusiast • 🛠️ Builder
